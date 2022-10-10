@@ -1,0 +1,30 @@
+<CiscoIPPhoneRingList>
+	<Ring>
+		<DisplayName>Ring 1</DisplayName>
+		<FileName>Ring1.raw</FileName>
+	</Ring>
+	<Ring>
+		<DisplayName>Ring 2</DisplayName>
+		<FileName>Ring2.raw</FileName>
+	</Ring>
+	<Ring>
+		<DisplayName>Ring 3</DisplayName>
+		<FileName>Ring3.raw</FileName>
+	</Ring>
+	<Ring>
+		<DisplayName>Ring 4</DisplayName>
+		<FileName>Ring4.raw</FileName>
+	</Ring>
+	<Ring>
+		<DisplayName>Ring 5</DisplayName>
+		<FileName>Ring5.raw</FileName>
+	</Ring>
+	<Ring>
+		<DisplayName>Ring 6</DisplayName>
+		<FileName>Ring6.raw</FileName>
+	</Ring>
+  <Ring>
+		<DisplayName>Ring 7</DisplayName>
+		<FileName>Ring7.raw</FileName>
+	</Ring>
+</CiscoIPPhoneRingList>
